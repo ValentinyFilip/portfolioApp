@@ -2,6 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Inspiration
 https://tamalsen.dev/
+https://brightmedia.pl/?lang=en&site=intro
 
 ## Getting Started
 
