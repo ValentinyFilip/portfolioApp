@@ -18,11 +18,11 @@ export default function RootLayout({
         <div>
             <Navbar />
         </div>
-        < div className="m-20" >
+        < div className="ml-20" >
             {children}
         </div>
 
-        <div className="fixed bottom-0 left-0 m-20" >
+        <div className="fixed bottom-0 left-0 ml-20" >
             <Footer />
         </div>
 
