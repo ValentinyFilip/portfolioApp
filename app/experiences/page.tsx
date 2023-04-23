@@ -6,14 +6,12 @@ export default function About() {
     return (
         <>
             <main className="">
-                <h1>Experinces</h1>
+                <h1 className="mb-4 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">Experinces</h1>
                 <div>
-                    <h2>C</h2>
-                    <Image src={C} alt="code v c"></Image>
+                    <Image src={C} alt="code v c" sizes="900px"></Image>
                 </div>
                 <div>
-                    <h2>Rust</h2>
-                    <Image src={RUST} alt="code v rust"></Image>
+                    <Image src={RUST} alt="code v rust" sizes="500px"></Image>
                 </div>
             </main>
         </>
