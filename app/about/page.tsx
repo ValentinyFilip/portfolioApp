@@ -1,10 +1,9 @@
 export default function About() {
   return (
     <>
-      <main>
+      <main className="grid place-content-center">
         <h1>About</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, quae.</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, quae.</p>
+        <p>Im at student at SPŠ Karviná. I have a lot of passion for programing.</p>
       </main>
     </>
   );

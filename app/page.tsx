@@ -1,13 +1,11 @@
 import { Inter } from '@next/font/google'
 
-const inter = Inter({ subsets: ['latin'] })
-
 export default function Home() {
   return (
       <>
-          <main>
-              <h1>Hello</h1>
-              <p>Lore Ipsum</p>
+          <main className="grid place-content-center">
+              <h1>Filip Valneíny</h1>
+              <p>Student at SPŠ Karviná</p>
           </main>
       </>
   )

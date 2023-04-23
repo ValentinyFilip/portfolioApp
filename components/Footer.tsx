@@ -1,7 +1,9 @@
+"use client"
+
 export default function Footer() {
   return (
     <footer>
-      <p>Valentiny Filip 2023</p>
+        <p>Valentiny Filip {new Date().getFullYear()}</p>
     </footer>
   );
 };
