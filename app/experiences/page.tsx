@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function About() {
     return (
         <>
-            <main className="grid place-content-center">
+            <main className="">
                 <h1>Experinces</h1>
                 <div>
                     <h2>C</h2>
